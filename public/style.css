@@ -36,11 +36,3 @@ ul ul li:last-of-type{
 
 a { text-decoration: none; 
 	}
-a: hover{
-	font-weight: bold;
-	text-decoration: underline;
-}
-a: visited{
-	background-color: blue;
-	color:white;
-}

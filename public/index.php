@@ -8,20 +8,20 @@
 <body>
 <h1>Eric Ehmann</h1>
 <h2> Portfolio Displayer</h2>
-<img src="picture.jpg" alt="Picture of Eric Ehmann" />
-<p>Hello! My name is Eric Ehmann.  And I am philantrhopist turned developer.  I have founded a theater program for at-risk-youth in Hawaii, delivered uplifting sermons, trained people in leadership and public speaking, inspired people to become clean, empowered people on course to finish marathons, and raised over $10K for cancer research.  The secret to improving lives, is to meet people where they are and understand how they think, to create better solutions.  Because people spend so much time online, I am transition to becoming a developer.  Below is a sample of my work.</p>
+<img src="picture.jpg" alt="Picture of Eric Ehmann"  />
+<p>Hello! My name is Eric Ehmann, and I am philantrhopist turned developer.  I have founded a theater program for at-risk-youth in Hawaii, trained people in leadership and public speaking, inspired people to become clean, empowered people to finish marathons, and have raised over $10K for cancer research.  The secret to improving lives, is to meet people where they are and understand how they think, to create better solutions.  Therefore, I look for how to use this ambition to create wesbites and web applications, and this is where people spend a large portion of their lives.  Below is a sample of my work.</p>
 <ul>
-	<li> Password Generator</li>
+	<li> Project 2 Password Generator</li>
     <ul> 
     	<li><a href ="#">Live Demo </a></li>
         <li><a href="#">Github</a></li>
     </ul>
-    <li> Random Text Generator and Random User Generator</li>
+    <li> Project 3 Random Text Generator and Random User Generator</li>
     <ul> 
     	<li><a href="#">Live Demo</a> </li>
         <li><a href="#">Github</a></li>
     </ul>
-    <li> Most exciting project</li>
+    <li> Project 4 Most exciting project</li>
     <ul> 
     	<li><a href="#">Live Demo</a></li>
         <li><a href="#">Github</a></li>
