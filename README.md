@@ -1,7 +1,7 @@
 # Portfolio Displayer
 
 ## Live URL
-<http://p2.ericehmann.me>
+<http://ericehmann.me/p2>
 
 ## Description
 A single page that has sample of the developers work, including a password generator, a random text and random user generator, and an additional sample
