@@ -16,20 +16,23 @@
     <li> Project 2 XABC Password Generator</li>
     <ul> 
         <li> A tool generates easy to remember but hard to crack passwords</li>
-        <li><a href ="#">Live Demo </a></li>
+        <li><a href ="#">Live Site</a></li>
         <li><a href="#">Github</a></li>
+        <li><a href="#">Video Demo</a></li>
     </ul>
     <li> Project 3 Developer's Friend</li>
     <ul> 
         <li> A tool that generates random text or builds a random user profile</li>
-        <li><a href="#">Live Demo</a> </li>
+        <li><a href="#">Live Site</a> </li>
         <li><a href="#">Github</a></li>
+         <li><a href="#">Video Demo</a></li>
     </ul>
     <li> Project 4 Most exciting project</li>
     <ul> 
         <li> This is just something that you need to see</li>
-        <li><a href="#">Live Demo</a></li>
+        <li><a href="#">Live Site</a></li>
         <li><a href="#">Github</a></li>
+         <li><a href="#">Video Demo</a></li>
     </ul>
 <footer>
 <p>Eric Ehmann is a designer residing in the Boston area.  He is concerned about the mental shaming people do to themselves when the website is not intuitive to their way of thinking.  Ultimately he is interested interested in building websites and web applications that empower users. and examples of his work can be seen below</p>
