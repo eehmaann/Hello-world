@@ -38,9 +38,9 @@
 </main>
 <footer>
 <h3> About </h3>
-<p>Eric Ehmann is a designer residing in the Boston area.  He is concerned about the mental shaming people do to themselves when the website is not intuitive to their way of thinking.  Ultimately he is interested interested in building websites and web applications that empower users. and examples of his work can be seen below</p>
-<p> Eric considers his web design to be a continuation of the philanthropic work that he does.  His other philanthropic work includes founding a theater for at risk youth in Hawaii, training people on leadership and public speaking, inspiring people to become clean and sober, empowering people to finish their first marathons, and raising $10K for researching cures for blood cancer</p>
-<p>He is currently enrolled at Harvard Extension School, where he plans to earn a certificate in Web Technologies by the end of 2016 and a Masters degree in Digital Media Design by the end of 2017.  Additionally, he is certified public speaker and has earned an AS in Sociology, a BA in Humanities, a MBA in Marketing, and has studied Psychology.  He loves studying people and designing solutions to their problems.</p>
+<p>Eric Ehmann is a designer residing in the Boston area.  He is concerned about the mental shaming people do to themselves when the website is not intuitive to their way of thinking.  Ultimately he is interested interested in building websites and web applications that empower users. Examples of his work can be seen above</p>
+<p> Eric considers his web designs to be a continuation of the philanthropic work that he does.  His other philanthropic work includes founding a theater for at risk youth in Hawaii, training people on leadership and public speaking, inspiring people to become clean and sober, empowering people to finish their first marathons, and raising $10K for researching cures for blood cancer</p>
+<p>He is currently enrolled at Harvard Extension School, where he plans to earn a certificate in Web Technologies by the end of 2016 and a Masters degree in Digital Media Design by the end of 2017.  Additionally, he is a certified public speaker and has earned an AS in Sociology, a BA in Humanities, a MBA in Marketing, and has studied Psychology.  He loves studying people and designing solutions to their problems.</p>
 </footer>    
 </body>
 </html>
