@@ -48,7 +48,7 @@ ul ul li:last-of-type{
 a { text-decoration: none; 
 	}
 footer {
-	clear: right;
+	clear: left;
 	border-top: thin solid black;
 	font-size: 0.8rem
 }
