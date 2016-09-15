@@ -15,7 +15,7 @@ h2{
 h3 {
 	font-size: 1.5rem;
 	font-weight: bold;
-	text-align: center;
+	margin-left: 15px;
 }
 img{
 	float:left;
@@ -50,6 +50,7 @@ footer {
 	clear: right;
 	border-top: thin solid black;
 	font-size: 0.8rem
+	font-weight: normal;
 }
 	
 	
