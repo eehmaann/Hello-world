@@ -16,9 +16,9 @@
             <li> Project 2 XABC Password Generator</li>
             <ul> 
                 <li> A tool that generates easy to remember but hard to crack passwords</li>
-                <li><a href ="#">Live Site</a></li>
-                <li><a href="#">Github</a></li>
-                <li><a href="#">Video Demo</a></li>
+                <li><a href ="http://p2.ericehmann.me/">Live Site</a></li>
+                <li><a href="https://github.com/eehmaann/p2">Github</a></li>
+                <li><a href="https://www.youtube.com/watch?v=jCuO_RD6ulQ&feature=youtu.be">Video Demo</a></li>
             </ul>
             <li> Project 3 Developer's Friend</li>
             <ul> 
